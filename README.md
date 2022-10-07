@@ -12,7 +12,7 @@ Projeto desenvolvido para aprimorar meu conhecimento em ContextApi e Reducer
 
 ## Para visualizar o projeto funcionando, clique no link abaixo !
 
-[https://ignite-lab-tan.vercel.app/]
+[https://shopping-cart-winkelstrotersergio.vercel.app/]
 
 <img src="./public/home-shopping.png" />
 
